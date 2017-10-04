@@ -7,7 +7,7 @@ Ejercicios de la asignatura
 * Git y GitHub :octocat:
 * Lenguaje Java :coffee: :variables, bucles, P00, etc. 
 
-## Bibliográfia
+## :books: Bibliográfia
 
 <img src="imagenes/aprende-java.jpg" width="320px">
 
