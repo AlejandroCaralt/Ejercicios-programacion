@@ -11,7 +11,7 @@ Ejercicios de la asignatura
 
 <img src="imagenes/aprende-java.jpg" width="320px">
 
-[Aprende Java con Ejercicios] (https://leanpub.com/aprendejava)
+[Aprende Java con Ejercicios](https://leanpub.com/aprendejava)
 
 ## Enlaces de Interésía
 
