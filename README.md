@@ -7,6 +7,27 @@ Ejercicios de la asignatura
 * Git y GitHub :octocat:
 * Lenguaje Java :coffee: :variables, bucles, P00, etc. 
 
+## "Hola Mundo" en Java
+
+A continuación se muestra el programa "Hola Mundo" escrito en lenguaje Java:
+```java
+public class HolaMundo {
+  public static void main (String[] args) {
+    System.out.print("¡Hola Mundo!")
+  }
+}
+```
+Para compilar el programa teclea:
+ 
+```console
+javac HolaMundo.java
+```
+Para ejecutar el programa usamos el comando `java`:
+
+```console
+java HolaMundo
+```
+
 ## :books: Bibliográfia
 
 <img src="imagenes/aprende-java.jpg" width="320px">
