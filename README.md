@@ -3,9 +3,9 @@ Ejercicios de la asignatura
 
 ## ¿Qué se aprende en Programación?
 
-*Comando de Linux
-*Git y GitHub
-*Lenguaje Java: variables, bucles, P00, etc.
+* Comando de Linux
+* Git y GitHub
+* Lenguaje Java: variables, bucles, P00, etc.
 
 ## Bibliográfia
 
