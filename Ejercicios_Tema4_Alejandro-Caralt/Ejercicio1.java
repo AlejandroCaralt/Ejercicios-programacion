@@ -21,7 +21,8 @@ public class Ejercicio1 {
 			case "MARTES":
 				asignatura = "Sistemas informáticos";
 				break;
-
+			case "MIÉRCOLES":
+				//Continua la opción.
 			case "MIERCOLES":
 				asignatura = "Programación";
 				break;
