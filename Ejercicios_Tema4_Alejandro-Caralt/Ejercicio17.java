@@ -16,4 +16,4 @@ public class Ejercicio17 {
           System.out.println("La última cifra es" + (i % 10));
         }
   }
-}
+} 
