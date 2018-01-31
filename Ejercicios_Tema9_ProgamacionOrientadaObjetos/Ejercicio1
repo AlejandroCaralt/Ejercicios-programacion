@@ -1,0 +1,3 @@
+PilotoDeFormula1
+Atributos: nombre, apellidos, edad, campeonatos, escuderia, numeroPoles, nacionalidad, mejorTemporada.
+Ejemplos de objetos: fernandoAlonso, lewisHamilton, carlosSainz...
