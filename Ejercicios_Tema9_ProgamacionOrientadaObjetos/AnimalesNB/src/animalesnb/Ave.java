@@ -6,10 +6,25 @@
 
 package animalesnb;
 
-/**
- * 
- * @author Sammy Guergachi <sguergachi at gmail.com>
- */
-public class Ave {
+public class Ave extends Animal {
+    private String tipo;
+    private String habitat;
+    
+    public Ave(){}
 
+    public String getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public String getHabitat() {
+        return habitat;
+    }
+
+    public void setHabitat(String habitat) {
+        this.habitat = habitat;
+    } 
 }
