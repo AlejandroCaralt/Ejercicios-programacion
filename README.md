@@ -11,6 +11,9 @@ Ejercicios de la asignatura
 
 A continuación se muestra el programa "Hola Mundo" escrito en lenguaje Java:
 ```java
+/**
+*@author AlejandroCaralt 
+*/
 public class HolaMundo {
   public static void main (String[] args) {
     System.out.print("¡Hola Mundo!")
