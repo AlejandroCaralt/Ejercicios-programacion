@@ -1,5 +1,5 @@
 # Ejercicios-programacion
-Ejercicios de la asignatura 
+Ejercicios de la asignatura programación de 1º Desarrollo de aplicaciones multiplataforma del IES Campanillas.
 
 ## ¿Qué se aprende en Programación?
 
